@@ -1,4 +1,4 @@
-package com.khoahd7621.Chapter1_BuildingBlocks;
+package com.osik2000.Chapter1_BuildingBlocks;
 
 import java.util.Random; // import tells us where to find Random
 

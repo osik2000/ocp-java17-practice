@@ -1,4 +1,4 @@
-package com.khoahd7621.Chapter6_ClassDesign.supers;
+package com.osik2000.Chapter6_ClassDesign.supers;
 
 public class Insect {
     protected int numberOfLegs = 4;

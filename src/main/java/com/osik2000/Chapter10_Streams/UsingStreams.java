@@ -1,4 +1,4 @@
-package com.khoahd7621.Chapter10_Streams;
+package com.osik2000.Chapter10_Streams;
 
 import java.util.*;
 import java.util.function.BinaryOperator;

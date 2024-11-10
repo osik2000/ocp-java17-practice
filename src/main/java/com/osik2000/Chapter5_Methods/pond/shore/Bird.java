@@ -1,4 +1,4 @@
-package com.khoahd7621.Chapter5_Methods.pond.shore;
+package com.osik2000.Chapter5_Methods.pond.shore;
 
 public class Bird {
     protected String text = "floating";

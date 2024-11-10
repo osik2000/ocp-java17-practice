@@ -1,6 +1,6 @@
-package com.khoahd7621.Chapter5_Methods.pond.goose;
+package com.osik2000.Chapter5_Methods.pond.goose;
 
-import com.khoahd7621.Chapter5_Methods.pond.shore.Bird;
+import com.osik2000.Chapter5_Methods.pond.shore.Bird;
 
 public class Gosling extends Bird {
     public void swim() {

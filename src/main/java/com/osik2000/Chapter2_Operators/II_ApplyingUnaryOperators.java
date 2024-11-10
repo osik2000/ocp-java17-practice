@@ -1,4 +1,4 @@
-package com.khoahd7621.Chapter2_Operators;
+package com.osik2000.Chapter2_Operators;
 
 public class II_ApplyingUnaryOperators {
     // Operator                 Examples                Description
